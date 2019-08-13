@@ -7,10 +7,10 @@
 # "google-chrome-stable --disable-gpu-compositing"
 #  Alt + c
 "chromium"
-  Mod4 + c
+  Alt + c
 
 "spotify"
-  Mod4 + s
+  Alt + s
 
 "light -A 5"
   XF86MonBrightnessUp
