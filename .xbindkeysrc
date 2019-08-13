@@ -1,0 +1,20 @@
+"xrandr --auto"
+  Mod4 + p
+
+"slock"
+  Mod4 + l
+
+"google-chrome-stable --disable-gpu-compositing"
+  Alt + c
+
+"light -A 5"
+  XF86MonBrightnessUp
+
+"light -U 5"
+  XF86MonBrightnessDown
+
+"amixer -D pulse sset Master 5%+"
+  XF86AudioRaiseVolume
+
+"amixer -D pulse sset Master 5%-"
+  XF86AudioLowerVolume
