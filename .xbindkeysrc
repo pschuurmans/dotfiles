@@ -4,8 +4,13 @@
 "slock"
   Mod4 + l
 
-"google-chrome-stable --disable-gpu-compositing"
-  Alt + c
+# "google-chrome-stable --disable-gpu-compositing"
+#  Alt + c
+"chromium"
+  Mod4 + c
+
+"spotify"
+  Mod4 + s
 
 "light -A 5"
   XF86MonBrightnessUp
