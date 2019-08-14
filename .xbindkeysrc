@@ -23,3 +23,6 @@
 
 "amixer -D pulse sset Master 5%-"
   XF86AudioLowerVolume
+
+"flameshot gui"
+  Print
